@@ -1,2 +1,3 @@
-# Anagram_checkerh
-This is a program for if two strings are anagrams
+# Anagram_checker
+Anagram_checker is a program for checking if two strings are anagrams
+
