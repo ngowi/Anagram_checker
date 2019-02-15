@@ -1,7 +1,9 @@
-# Anagram2
+# Anagram checker
+# Author: Michael Jordan
+# Email:michael53161@gmail.com
 
 def character_count(string):
-    characters = {}
+    characters = {}    # declaring empy dictionary
     for ch in string:
         if ch in characters:
             characters[ch] = character[ch]+1
